@@ -14,4 +14,4 @@ make re
 
 # The Program
 ./push_swap 2 1 3 5 4
-sa pb pb pb sa pb pa pa pa pa
+* sa pb pb pb sa pb pa pa pa pa
